@@ -1,0 +1,7 @@
+import java.util.*;
+import java.io.*;
+
+class ArrayCheck{
+public static void main(String []args){
+  int[] arr=new int[5]; //if it is a 1D array
+}
